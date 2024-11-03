@@ -33,4 +33,7 @@ In this report, 2 finance reports are made:-                           1. Profit
 2. Power Query
 3. Pivot table
 4. Dax( data analysis expression) [Gm% , 21 vs 20 , net sales]
-   5.Conditional formatting 
+   5.Conditional formatting
+   
+
+   🔗 PDF of work is attached of project to see my work 
